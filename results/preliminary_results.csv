@@ -1,0 +1,8 @@
+Metric,Dataset,Value,Description
+Accuracy,PBMC3k,0.9754,Classifier performance on stratified held-out test split
+Macro F1-score,PBMC3k,0.9436,Macro averaged F1-score
+Weighted F1-score,PBMC3k,0.9755,Weighted F1-score
+Adjusted Rand Index,PBMC10k,0.6488,Agreement between transferred labels and independent clustering
+Normalized Mutual Information,PBMC10k,0.7071,Agreement between transferred labels and independent clustering
+Reconstruction MSE,PBMC3k,0.6984,Autoencoder reconstruction error
+Reconstruction MSE,PBMC10k,0.7269,Autoencoder reconstruction error
