@@ -45,6 +45,10 @@ Six clusters were identified using Leiden clustering. Preliminary marker-based a
 
 The Logistic Regression classifier achieved the following results on a stratified held-out PBMC3k test split:
 
+## Visualizations
+
+Project visualizations are available in the [`results/figures`](results/figures/) directory.
+
 | Metric | Score |
 |---|---:|
 | Accuracy | 0.9754 |
